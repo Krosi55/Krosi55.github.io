@@ -3,7 +3,8 @@ body {
   margin: 0;
   padding: 0;
   background-image: url('https://static.wixstatic.com/media/209ce1_9f24a973adb843f8ad3507cc4c30aeef~mv2.jpg/v1/fit/w_2500,h_1330,al_c/209ce1_9f24a973adb843f8ad3507cc4c30aeef~mv2.jpg'); /* Passe den Pfad zu deinem Bild an */
-  background-size: cover;
+ background-size: background-size: 100% 100%;
+  background-repeat: no-repeat;
   background-position: center;
 }
 
